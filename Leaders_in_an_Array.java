@@ -84,7 +84,7 @@ public class Solution {
 public class Solution {
     public int[] solve(int[] A) {
         int leader=A[A.length-1];       //defining an variable which holds the last elem of A;
-        int count=1,x;      // by default right most elem is a leader
+        int count=1,x;      // by default right most elem is a leader v
         //first to know how many leader elements are present in the given array
         for(int i=A.length-2;i>=0;i--)    //right to left
         {

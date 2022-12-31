@@ -6,7 +6,7 @@
 //First and only argument is a string A.
 //
 //Output Format
-//Return an integer denoting the answer.
+//Return an integer denoting the answer. v
 //Example Input
 //Input 1:
 // A = "ABCGAG"

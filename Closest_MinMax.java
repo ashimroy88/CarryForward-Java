@@ -2,7 +2,7 @@
 //and at least one occurrence of the minimum value of the array.
 //Output Format
 //Return the length of the smallest subarray which has at least one occurrence of minimum and maximum element of the array
-//Example Input
+//Example Inputv
 //Input 1:
 //A = [1, 3]
 //Input 2:
